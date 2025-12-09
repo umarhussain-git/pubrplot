@@ -47,8 +47,9 @@ Umar Hussain [drumarhussain@gmail.com](mailto:drumarhussain@gmail.com)
 Once the package is hosted on GitHub:
 
 ```r
-# Install development version
-devtools::install_github("umarhussain-git/pubrplot")
+# Install development version from GitHub
+remotes::install_github("umarhussain-git/pubrplot")
+
 ```
 
 Load the package:
@@ -170,17 +171,9 @@ plot_lm(
 * Regression diagnostics plots
 * Odds ratio forest plots
 * Automated normality report
-* APA/Journal-ready color palettes
+* Journal-ready color palettes
 
 ---
-
-## 🤝 Contribution
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
 
 ---
 
@@ -192,17 +185,10 @@ Email: **[drumarhussain@gmail.com](mailto:drumarhussain@gmail.com)**
 
 ---
 
-Enjoy creating beautiful, publication-ready R plots with **pubrplot**!
-
-```
+ Create beautiful, publication-ready R plots with **pubrplot**!
 
 
 
-If you want, I can also generate:  
-✅ Hex logo for the package  
-✅ Function reference table  
-✅ CRAN-style documentation  
-✅ Example screenshots of each plot  
 
-Just tell me!
+
 ```
