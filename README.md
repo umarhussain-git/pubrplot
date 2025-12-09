@@ -1,9 +1,3 @@
-
-
-You can paste this directly into **README.md**.
-
----
-
 ````markdown
 # pubrplot  
 ### Publication-Ready Plots and Statistical Visualizations
